@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>DOOM Shareware</title>
+  <link rel="stylesheet" href="https://js-dos.com/6.22/current/js-dos.css">
+</head>
+<body style="margin:0;background:black;">
+  <div id="dos" style="width:100vw;height:100vh;"></div>
+
+  <script src="https://js-dos.com/6.22/current/js-dos.js"></script>
+  <script>
+    Dos(document.getElementById("dos")).run({
+      files: [
+        "DOOM1.WAD"
+      ],
+      commands: [
+        "doom"
+      ]
+    });
+  </script>
+</body>
+</html>
