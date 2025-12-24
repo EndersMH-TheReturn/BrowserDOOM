@@ -1,9 +1,4 @@
 # BrowserDOOM
-Ever wanted to play doom without touching your any files on your device? this is for you!
-
-#### Usefulness:
-running doom on almost anything.
-(if the device your using cannot launch doom but can access the internet, you can make it play doom.)
-
+Ever wanted to play doom on anything with internet access? *HERE IT IS!*
 # MADE BY ENDERMH
 also some people helped too but no, me is real owner
